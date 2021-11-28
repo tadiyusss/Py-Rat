@@ -31,8 +31,6 @@ Features:
 - Python 
 - Hidden as Fake PDF
 
-P:1200
-
 How to setup:
 
 - Install Python 3 (https://www.youtube.com/watch?v=UvcQlPZ8ecA)

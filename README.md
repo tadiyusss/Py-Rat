@@ -1,11 +1,14 @@
 Py-Rat
 
 Usage: 
+
 Main Menu:
+
 - list : List all victims
 - select 'id' : select victim
 - shutdown : close receiver
 - help : show help Menu
+
 Remote Shell:
 - screenshot : Get victim's screenshot
 - get_clipboard : Get victim's clipboard

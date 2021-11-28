@@ -1,18 +1,18 @@
 Py-Rat
 
 Usage: 
-	Main Menu:
-	- list : List all victims
-	- select 'id' : select victim
-	- shutdown : close receiver
-	- help : show help Menu
-	Remote Shell:
-	- screenshot : Get victim's screenshot
-	- get_clipboard : Get victim's clipboard
-	- send_keystroke 'string' : Send keystroke to victim
-	- keylogger : Open keylogger logs
-	- download 'file' : Download file from victim's pc
-	- quit : close victim
+Main Menu:
+- list : List all victims
+- select 'id' : select victim
+- shutdown : close receiver
+- help : show help Menu
+Remote Shell:
+- screenshot : Get victim's screenshot
+- get_clipboard : Get victim's clipboard
+- send_keystroke 'string' : Send keystroke to victim
+- keylogger : Open keylogger logs
+- download 'file' : Download file from victim's pc
+- quit : close victim
 
 
 Features:
